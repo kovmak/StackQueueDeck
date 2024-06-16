@@ -11,3 +11,6 @@ This repository contains implementations of the stack and deque data structures 
 - `size` - Print the number of elements in the stack.
 - `clear` - Clear the stack. Prints `ok`.
 - `exit` - Print `bye` and terminate the program.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
